@@ -1,7 +1,7 @@
 # BookOrganizer
 A small project of a Book Organizer App using Javascript and Node.js to practice programming logic and basic concepts of the language and tools.
 
-This was developed as a pratice/test during the Hiring Coders #2 Bootcamp by VTEX.
+This was developed as a pratice/test during the Hiring Coders #2 Bootcamp by VTEX. If you take a look at this project, I strongly suggest you also take a look at the books displayed as examples. Those are really good books!
 
 To use this material you will need javascript and node.js installed. You can download it and find more instructions on its use at https://nodejs.org/en/
 
